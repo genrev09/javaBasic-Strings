@@ -188,3 +188,13 @@ String Test
    - The expected result is to reverse actual code.
   d) Do you have further questions on this knowledge point?
    - None
+   
+12. should_compare_string_with_different_cases()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about the predefined method checking of string (equals and equalsIgnoreCase)
+  b) Why the test failed at first?
+   - expected result is null.
+  c) Why you corrected the test that way?
+   - That is the expected answer to the result.
+  d) Do you have further questions on this knowledge point?
+   - None
