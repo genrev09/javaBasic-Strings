@@ -138,3 +138,13 @@ String Test
    - The expected result expects a specific string.
   d) Do you have further questions on this knowledge point?
    - None
+   
+7. should_break_string_into_words_customized()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about predefined function of string called "Split" which separates the string based on a string/character.
+  b) Why the test failed at first?
+   - expected string is always null.
+  c) Why you corrected the test that way?
+   - The expected result expects a specific string.
+  d) Do you have further questions on this knowledge point?
+   - None
