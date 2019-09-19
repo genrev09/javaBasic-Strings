@@ -148,3 +148,13 @@ String Test
    - The expected result expects a specific string.
   d) Do you have further questions on this knowledge point?
    - None
+   
+8. should_create_ascii_art()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about predefined function of string builder append() which appends the string to the string builder.
+  b) Why the test failed at first?
+   - expected string is always null.
+  c) Why you corrected the test that way?
+   - The expected result expects a specific string using the given width and height.
+  d) Do you have further questions on this knowledge point?
+   - None
