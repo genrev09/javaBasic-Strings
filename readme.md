@@ -178,3 +178,13 @@ String Test
    - The expected result is to change the unicode per character.
   d) Do you have further questions on this knowledge point?
    - None
+   
+11. should_reverse_a_string()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about the predefined method reverse of a string builder
+  b) Why the test failed at first?
+   - expected string is null.
+  c) Why you corrected the test that way?
+   - The expected result is to reverse actual code.
+  d) Do you have further questions on this knowledge point?
+   - None
