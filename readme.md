@@ -98,3 +98,13 @@ String Test
    - The list expects boolean.
   d) Do you have further questions on this knowledge point?
    - None
+   
+3. will_create_new_string_when_concat()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about concatenation of strings which appends a string to another string.
+  b) Why the test failed at first?
+   - list returns null when used list.empty().
+  c) Why you corrected the test that way?
+   - The list expects boolean.
+  d) Do you have further questions on this knowledge point?
+   - None
