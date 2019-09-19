@@ -81,9 +81,19 @@ If you just want to build your code without running test. Please use `./gradlew 
 String Test
 1. should_be_immutable()
   a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
-   - To be knowledgeable about list.
+   - To be knowledgeable predefined function String.replace() which replaces string with another string.
   b) Why the test failed at first?
-   - list contains null.
+   - list returns null when used list.empty().
+  c) Why you corrected the test that way?
+   - The list expects boolean.
+  d) Do you have further questions on this knowledge point?
+   - None
+   
+2. all_modification_method_will_create_new_string()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about the predefined function String.trim() which removes the trailing spaces.
+  b) Why the test failed at first?
+   - list returns null when used list.empty().
   c) Why you corrected the test that way?
    - The list expects boolean.
   d) Do you have further questions on this knowledge point?
