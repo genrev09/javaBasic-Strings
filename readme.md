@@ -77,3 +77,14 @@ You could run unit tests with the help of IntelliJ. But it is also possible to r
 
 If you just want to build your code without running test. Please use `./gradlew build -x test
 `
+
+String Test
+1. should_be_immutable()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about list.
+  b) Why the test failed at first?
+   - list contains null.
+  c) Why you corrected the test that way?
+   - The list expects boolean.
+  d) Do you have further questions on this knowledge point?
+   - None
