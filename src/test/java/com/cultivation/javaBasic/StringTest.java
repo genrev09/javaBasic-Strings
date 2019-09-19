@@ -238,7 +238,7 @@ class StringTest {
 
         // TODO: please modify the following code to pass the test
         // <--start
-        final String expectedText = null;
+        final String expectedText = "Hello, Harry. Next year, you will be 23.";
         // --end-->
 
         assertEquals(expectedText, text);

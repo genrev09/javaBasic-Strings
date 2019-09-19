@@ -198,3 +198,13 @@ String Test
    - That is the expected answer to the result.
   d) Do you have further questions on this knowledge point?
    - None
+   
+13. should_format_string()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about the predefined String function called "format".
+  b) Why the test failed at first?
+   - expected result is null.
+  c) Why you corrected the test that way?
+   - That is the expected answer to the result.
+  d) Do you have further questions on this knowledge point?
+   - None
