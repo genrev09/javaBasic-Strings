@@ -158,3 +158,13 @@ String Test
    - The expected result expects a specific string using the given width and height.
   d) Do you have further questions on this knowledge point?
    - None
+   
+9. should_calculate_checksum_of_a_string()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about the predefined values of each character.
+  b) Why the test failed at first?
+   - expected string is always 0.
+  c) Why you corrected the test that way?
+   - The expected result is to get the sum per character.
+  d) Do you have further questions on this knowledge point?
+   - None
