@@ -168,3 +168,13 @@ String Test
    - The expected result is to get the sum per character.
   d) Do you have further questions on this knowledge point?
    - None
+   
+10. should_convert_unicode_escape()
+  a) What is the knowledge point of the test? Where is the offical document to the knowledge point?
+   - To be knowledgeable about the predefined method replace of String.
+  b) Why the test failed at first?
+   - expected string is null.
+  c) Why you corrected the test that way?
+   - The expected result is to change the unicode per character.
+  d) Do you have further questions on this knowledge point?
+   - None

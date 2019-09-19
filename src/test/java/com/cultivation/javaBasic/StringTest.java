@@ -2,6 +2,7 @@ package com.cultivation.javaBasic;
 
 import org.junit.jupiter.api.Test;
 
+import java.nio.charset.StandardCharsets;
 import java.util.Optional;
 
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
@@ -183,7 +184,14 @@ class StringTest {
         // こ - U+3053
         // れ - U+308c
         // <--Start
-        final String actual = null;
+        final String actual = "U+306aU+306bU+3053U+308c".replace("U+306a","な").replace("U+306b","に").replace("U+3053","こ").replace("U+308c","れ");
+//        String[] arr_unicode = "U+306a U+306b U+3053 U+308c".split(" ");
+//        for (String unicode: arr_unicode) {
+//            switch (unicode){
+//                case "U+306a"
+//            }
+//        }
+//        actual =
         // --End-->
 
         assertEquals(expected, actual);
